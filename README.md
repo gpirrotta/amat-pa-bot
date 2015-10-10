@@ -7,8 +7,8 @@ Installation
 Clone the github repo in your machine
 
 ``` bash
-$ git clone https://github.com/gpirrotta/AmatPABot.git
-$ cd AmatPABot
+$ git clone https://github.com/gpirrotta/amat-pa-bot.git
+$ cd amat-pa-bot
 ```
 
 And run these two commands to install it:
@@ -29,7 +29,7 @@ require 'vendor/autoload.php';
 You're done.
 
 ## Usage
-Set and rename the **amat-config-blank** file you find in the config directory.
+Set and rename the **amat-config-blank.php** file you find in the config directory.
 
 ``` php
 <?php
