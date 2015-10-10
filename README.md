@@ -73,7 +73,7 @@ Set and rename the **amat-config-blank.php** file you find in the config directo
 
 ## License
 
-AmatPABot is released under the MIT License. See the bundled LICENSE file for
+amat-pa-bot package is released under the MIT License. See the bundled LICENSE file for
 details.
 
 
