@@ -1,5 +1,6 @@
 AMAT PAlermo Telegram BOT
 =========
+**NOT FOR PRODUCTION**
 
 Installation
 ------------
