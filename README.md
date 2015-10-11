@@ -49,7 +49,7 @@ Set and rename the **amat-config-blank.php** file you find in the config directo
 
     $amatPABot = new AmatPABot($token, $connectionString, $username, $password);
 
-    // In you use WebHook invoke the following method
+    // If you use WebHook invoke the following method
     $amatPABot->withWebHook();
 
     $amatPABot->run();
@@ -59,6 +59,8 @@ Set and rename the **amat-config-blank.php** file you find in the config directo
 
 - >= PHP 5.5
 
+## Detail
+* [Blog](http://giovanni.pirrotta.it/blog/2015/10/09/stazione-amat-di-palermo-ce-un-telegram-per-te/) (Italian)
 
 ## Demo
 
