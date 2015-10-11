@@ -16,7 +16,7 @@
 error_reporting(E_ALL);
 ini_set('display_errors', '1');
 
-$config = require __DIR__ . '/config/amat-config-dev.php';
+$config = require __DIR__ . '/config/amat-config-blank.php';
 
 //This is suggested from Guzzle
 date_default_timezone_set($config['timezone']);
