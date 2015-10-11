@@ -1,0 +1,28 @@
+{
+    "name": "gpirrotta/amat-pa-bot",
+    "type" : "library",
+    "description": "Amat Palermo Telegram BOT",
+    "keyworkds": ["opendata", "gtfs", "telegram", "bot", "php"],
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "GP\\AmatPABot\\": "src/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/gpirrotta/telegram-bot-sdk"
+        }
+    ],
+    "require": {
+        "irazasyed/telegram-bot-sdk": "dev-commandext"
+    },
+    "authors": [
+        {
+            "name": "Giovanni Pirrotta",
+            "email": "giovanni.pirrotta@gmail.com"
+        }
+    ],
+    "minimum-stability":"dev"
+}
